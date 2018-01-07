@@ -28,6 +28,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "Commander::Commander"
+               BuildableName = "Commander.framework"
+               BlueprintName = "Commander"
+               ReferencedContainer = "container:MotherShip-CLI.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "Files::Files"
                BuildableName = "Files.framework"
                BlueprintName = "Files"
@@ -56,9 +70,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "Commander::Commander"
-               BuildableName = "Commander.framework"
-               BlueprintName = "Commander"
+               BlueprintIdentifier = "MotherShip::MotherShip"
+               BuildableName = "MotherShip.framework"
+               BlueprintName = "MotherShip"
                ReferencedContainer = "container:MotherShip-CLI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -73,20 +87,6 @@
                BlueprintIdentifier = "HyperSpace::HyperSpace"
                BuildableName = "HyperSpace.framework"
                BlueprintName = "HyperSpace"
-               ReferencedContainer = "container:MotherShip-CLI.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "MotherShip::MotherShip"
-               BuildableName = "MotherShip.framework"
-               BlueprintName = "MotherShip"
                ReferencedContainer = "container:MotherShip-CLI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
