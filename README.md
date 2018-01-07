@@ -1,3 +1,3 @@
 # Mothership-CLI
 
-A description of this package.
+Command line interface for [MotherShip](https://github.com/thecb4/MotherShip) library
