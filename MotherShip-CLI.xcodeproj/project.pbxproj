@@ -176,7 +176,6 @@
 		OBJ_117 /* Environment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environment.swift; sourceTree = "<group>"; };
 		OBJ_118 /* Host.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Host.swift; sourceTree = "<group>"; };
 		OBJ_119 /* HyperSpace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HyperSpace.swift; sourceTree = "<group>"; };
-		OBJ_12 /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bin; sourceTree = SOURCE_ROOT; };
 		OBJ_120 /* IP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IP.swift; sourceTree = "<group>"; };
 		OBJ_121 /* IPv6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPv6.swift; sourceTree = "<group>"; };
 		OBJ_122 /* Method.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Method.swift; sourceTree = "<group>"; };
@@ -187,7 +186,6 @@
 		OBJ_127 /* Scheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scheme.swift; sourceTree = "<group>"; };
 		OBJ_128 /* URLSession.extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSession.extension.swift; sourceTree = "<group>"; };
 		OBJ_129 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/cavellebenjamin/Development/apps/MothershipSolution/MotherShip-CLI/.build/checkouts/HyperSpace.git-5454567524809734288/Package.swift"; sourceTree = "<group>"; };
-		OBJ_13 /* DerivedData */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DerivedData; sourceTree = SOURCE_ROOT; };
 		OBJ_16 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/cavellebenjamin/Development/apps/MothershipSolution/MotherShip-CLI/.build/checkouts/Files.git-6739420172119258925/Package.swift"; sourceTree = "<group>"; };
 		OBJ_17 /* Files.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Files.swift; sourceTree = "<group>"; };
 		OBJ_20 /* AES.Cryptors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AES.Cryptors.swift; sourceTree = "<group>"; };
@@ -540,8 +538,6 @@
 				OBJ_6 /* Package.swift */,
 				OBJ_7 /* Sources */,
 				OBJ_11 /* Tests */,
-				OBJ_12 /* bin */,
-				OBJ_13 /* DerivedData */,
 				OBJ_14 /* Dependencies */,
 				OBJ_130 /* Products */,
 			);
