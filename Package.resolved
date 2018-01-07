@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Commander",
+        "repositoryURL": "https://github.com/kylef/Commander.git",
+        "state": {
+          "branch": null,
+          "revision": "e5b50ad7b2e91eeb828393e89b03577b16be7db9",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": "master",
+          "revision": "46cfb548f83b89a13ce99f452223933c31fac5ba",
+          "version": null
+        }
+      },
+      {
+        "package": "Files",
+        "repositoryURL": "https://github.com/JohnSundell/Files.git",
+        "state": {
+          "branch": "master",
+          "revision": "9d25d1c24534809512e464c955e314c1c3ab00f9",
+          "version": null
+        }
+      },
+      {
+        "package": "HyperSpace",
+        "repositoryURL": "git@github.com:thecb4/HyperSpace.git",
+        "state": {
+          "branch": "master",
+          "revision": "85671bf9fb7d29c683eae248e055a14666856775",
+          "version": null
+        }
+      },
+      {
+        "package": "MotherShip",
+        "repositoryURL": "git@github.com:thecb4/MotherShip.git",
+        "state": {
+          "branch": "master",
+          "revision": "ee4ab0fdcd03ad9528643e4edf885d510878cc97",
+          "version": null
+        }
+      },
+      {
+        "package": "Spectre",
+        "repositoryURL": "https://github.com/kylef/Spectre.git",
+        "state": {
+          "branch": null,
+          "revision": "e34d5687e1e9d865e3527dd58bc2f7464ef6d936",
+          "version": "0.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
