@@ -14,7 +14,7 @@ let package = Package(
   dependencies: [
       // Dependencies declare other packages that this package depends on.
       // .package(url: /* package url */, from: "1.0.0"),
-    .package(url: "git@github.com:thecb4/MotherShip.git", .branch("master")),
+    .package(url: "https://github.com/thecb4/MotherShip.git", .branch("master")),
     .package(url: "https://github.com/kylef/Commander.git", .upToNextMinor(from:"0.8.0")),
     .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", .branch("master")),
     .package(url: "https://github.com/JohnSundell/Files.git",.branch("master"))

@@ -30,19 +30,19 @@
       },
       {
         "package": "HyperSpace",
-        "repositoryURL": "git@github.com:thecb4/HyperSpace.git",
+        "repositoryURL": "https://github.com/thecb4/HyperSpace.git",
         "state": {
           "branch": "master",
-          "revision": "85671bf9fb7d29c683eae248e055a14666856775",
+          "revision": "18684545e49c81eb729a72faef6eabda1612b2ca",
           "version": null
         }
       },
       {
         "package": "MotherShip",
-        "repositoryURL": "git@github.com:thecb4/MotherShip.git",
+        "repositoryURL": "https://github.com/thecb4/MotherShip.git",
         "state": {
           "branch": "master",
-          "revision": "8279e8b143d03cdae426948ac1728340b29f2d73",
+          "revision": "fa02bbe121f4673190376c09d3cf2c96cb620864",
           "version": null
         }
       },
